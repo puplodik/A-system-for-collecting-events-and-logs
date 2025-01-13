@@ -21,7 +21,6 @@
 ![](./img/13.jpg)
 ![](./img/14.jpg)
 ![](./img/15.jpg)
-![](./img/16.jpg)
 ## Устанавливаем Suricata
 ![](./img/17.jpg)
 ![](./img/18.jpg)
